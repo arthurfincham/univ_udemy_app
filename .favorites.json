@@ -1,0 +1,42 @@
+[
+    {
+        "type": "File",
+        "name": "/Users/arthurfincham/dev/rails/univ_app/Gemfile",
+        "parent_id": null,
+        "workspaceRoot": "/Users/arthurfincham/dev/rails/univ_app",
+        "workspacePath": "Gemfile",
+        "id": "zKcnXlu4ZbRPxFNf"
+    },
+    {
+        "type": "Directory",
+        "name": "/Users/arthurfincham/dev/rails/univ_app/app/controllers",
+        "parent_id": null,
+        "workspaceRoot": "/Users/arthurfincham/dev/rails/univ_app",
+        "workspacePath": "app/controllers",
+        "id": "wEBZnY2o1UDlqPmV"
+    },
+    {
+        "type": "Directory",
+        "name": "/Users/arthurfincham/dev/rails/univ_app/app/views",
+        "parent_id": null,
+        "workspaceRoot": "/Users/arthurfincham/dev/rails/univ_app",
+        "workspacePath": "app/views",
+        "id": "VmE0IgTuLrwKi9p5"
+    },
+    {
+        "type": "Directory",
+        "name": "/Users/arthurfincham/dev/rails/univ_app/app/models",
+        "parent_id": null,
+        "workspaceRoot": "/Users/arthurfincham/dev/rails/univ_app",
+        "workspacePath": "app/models",
+        "id": "KyDfzaiXN3JFP1hj"
+    },
+    {
+        "type": "File",
+        "name": "/Users/arthurfincham/dev/rails/univ_app/config/routes.rb",
+        "parent_id": null,
+        "workspaceRoot": "/Users/arthurfincham/dev/rails/univ_app",
+        "workspacePath": "config/routes.rb",
+        "id": "lkg4j0YwabCnvxDO"
+    }
+]

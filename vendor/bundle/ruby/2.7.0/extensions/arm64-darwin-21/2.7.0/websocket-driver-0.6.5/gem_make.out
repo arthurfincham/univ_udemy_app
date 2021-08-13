@@ -1,0 +1,15 @@
+current directory: /Users/arthurfincham/dev/rails/univ_app/vendor/bundle/ruby/2.7.0/gems/websocket-driver-0.6.5/ext/websocket-driver
+/Users/arthurfincham/.rvm/rubies/ruby-2.7.2/bin/ruby -I /Users/arthurfincham/.rvm/rubies/ruby-2.7.2/lib/ruby/2.7.0 -r ./siteconf20210813-3267-97zgtz.rb extconf.rb
+creating Makefile
+
+current directory: /Users/arthurfincham/dev/rails/univ_app/vendor/bundle/ruby/2.7.0/gems/websocket-driver-0.6.5/ext/websocket-driver
+make "DESTDIR=" clean
+
+current directory: /Users/arthurfincham/dev/rails/univ_app/vendor/bundle/ruby/2.7.0/gems/websocket-driver-0.6.5/ext/websocket-driver
+make "DESTDIR="
+compiling websocket_mask.c
+linking shared-object websocket_mask.bundle
+
+current directory: /Users/arthurfincham/dev/rails/univ_app/vendor/bundle/ruby/2.7.0/gems/websocket-driver-0.6.5/ext/websocket-driver
+make "DESTDIR=" install
+/opt/homebrew/opt/coreutils/bin/ginstall -c -m 0755 websocket_mask.bundle ./.gem.20210813-3267-k9ciy6
